@@ -10,10 +10,10 @@ Je suis un développeur web passionné, formé chez **O'clock** où j'ai suivi u
 - **Autres** : Git, API REST, Responsive Design  
 
 ## 📌 Projets
-NostradaKick : 
-Front : [https://github.com/YvanTrouillet/NostradaKick-front](https://github.com/YvanTrouillet/NostradaKick-Front)
-Back : [https://github.com/YvanTrouillet/NostradaKick-back](https://github.com/YvanTrouillet/NostradaKick-back)
-Lien : [https://nostrada-kick-front.vercel.app/](https://nostrada-kick-front.vercel.app/)
+- NostradaKick : 
+  - Front : [https://github.com/YvanTrouillet/NostradaKick-front](https://github.com/YvanTrouillet/NostradaKick-Front)
+  - Back : [https://github.com/YvanTrouillet/NostradaKick-back](https://github.com/YvanTrouillet/NostradaKick-back)
+  - Lien : [https://nostrada-kick-front.vercel.app/](https://nostrada-kick-front.vercel.app/)
 
 ## 📫 Contact
 - 💼 [LinkedIn](https://www.linkedin.com/in/yvan-trouillet/)
